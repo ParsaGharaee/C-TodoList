@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Todo\bin\Debug\net10.0\Todo.exe
+C:\Users\MSI\Desktop\Todo\bin\Debug\net10.0\Todo.deps.json
+C:\Users\MSI\Desktop\Todo\bin\Debug\net10.0\Todo.runtimeconfig.json
+C:\Users\MSI\Desktop\Todo\bin\Debug\net10.0\Todo.dll
+C:\Users\MSI\Desktop\Todo\bin\Debug\net10.0\Todo.pdb
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.dll
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\refint\Todo.dll
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.pdb
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\Todo.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Todo\obj\Debug\net10.0\ref\Todo.dll
